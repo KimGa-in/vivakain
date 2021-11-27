@@ -2,7 +2,7 @@
 ---
 title: 데이터 활용 아이디어 & 시각화 경진대회 본선 발표!
 description: 데이터 활용 아이디어 & 시각화 경진대회 발표 심사 후기!
-slug: 
+slug: DataSafetyZone-review2
 category: Data Analysis
 author: 김가인, 송혜민, 안지은
 ---
@@ -12,8 +12,7 @@ author: 김가인, 송혜민, 안지은
 
 
 
-(1.png)
-
+![1.png](/DataSafetyZone-review2/1.png)
 
 
 지난 11월 19일 오후에 __데이터 활용 아이디어 & 시각화 경진대회 본선에 진출__하게 되었다는 연락을 받았습니다!🥳🥳 발표 팀은 총 10팀으로 데이터 활용 아이디어 분야에서 5팀, 시각화 스토리텔링 분야에서 5팀으로 선정됐습니다. 그리고 11월 25일 목요일 4시 30분에 발표를 진행했습니다.
@@ -26,7 +25,7 @@ author: 김가인, 송혜민, 안지은
 
 
 
-(2.png)
+![2.png](/DataSafetyZone-review2/2.png)
 
 
 
@@ -34,7 +33,7 @@ author: 김가인, 송혜민, 안지은
 
 
 
-(3.png)
+![3.png](/DataSafetyZone-review2/3.png)
 
 
 
